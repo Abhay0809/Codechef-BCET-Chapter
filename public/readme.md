@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="300" height="140"  src="./images/bcet-chapter.png" alt="BCET CHAPTER LOGO">
-</p>
-
 # Project BCET Chapter Community Website 🔥
 
 ##### Welcome to the CodeChef BCET Chapter's Community official club website. BCET Chapter is a competetive coding club of Bengal College of Engineering and Technology! Source Code of Official website can be obtained from here. 
