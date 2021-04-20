@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" height="140"  src="./dist/images/bcet-chapter.png" alt="BCET CHAPTER LOGO">
+    <img width="300" height="140"  src="./images/bcet-chapter.png" alt="BCET CHAPTER LOGO">
 </p>
 
 # Project BCET Chapter Community Website 🔥
