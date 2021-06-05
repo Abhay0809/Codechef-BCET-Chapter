@@ -58,7 +58,7 @@ Project BCET Chapter Community Website is an open source software project and I 
 
 ## Versioning
  This project uses [semver](https://semver.org) for versioning. 
-- Current version: v1.0.0
+- Current version: v2.0.0
 
 ## License
 ```
